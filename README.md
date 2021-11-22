@@ -1,10 +1,9 @@
 # FilmQueryProject
 
-##Overview:
+## Description:
 This program is designed to a be command-line application that retrieves and displays film data from a database using Java Database Connectivity.
 
-## Description:
-First, the user is presented with a menu in which they can choose to:
+The user is presented with a menu in which they can choose to:
 
 1. Lookup a film by its ID.
 2. Lookup a film by a search keyword.
